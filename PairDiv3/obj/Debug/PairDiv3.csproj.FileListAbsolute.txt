@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\PairDiv3\obj\Debug\PairDiv3.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\PairDiv3\obj\Debug\PairDiv3.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\PairDiv3\bin\Debug\PairDiv3.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\PairDiv3\bin\Debug\PairDiv3.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\PairDiv3\bin\Debug\PairDiv3.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\PairDiv3\obj\Debug\PairDiv3.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\PairDiv3\obj\Debug\PairDiv3.pdb
