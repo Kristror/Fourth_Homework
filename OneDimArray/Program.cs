@@ -32,8 +32,20 @@ namespace OneDimArray
             Console.WriteLine("Введите шаг:");
             int step = 0;
             Int32.TryParse(Console.ReadLine(), out step);
-            Console.ReadKey();
+            
             OneArray arr = new OneArray(length, firstElem, step);
+
+            Console.WriteLine($"Cгенерированный массив: {arr.ToString()}");
+            Console.WriteLine($"Сумма элементов массива: {arr.Sum}");
+            arr.Inverse();
+            Console.WriteLine($"Массива с измененными знаками: {arr.ToString()}");
+            Console.WriteLine("Введите число на которое нужно умножить все элементы массива:");
+            int mult = 2;
+            if (!Int32.TryParse(Console.ReadLine(), out mult)) Console.WriteLine("Введено не подходяшее значение используется значение по умолчанию '2'");
+            arr.Multi(mult);
+            Console.WriteLine($"Массив элементы которого умножены на {mult}: {arr.ToString()}");
+            Console.WriteLine($"Кол-во макс элеменов массива: {arr.MaxCount}");
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\OneDimArray\bin\Debug\OneDimArray.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\OneDimArray\bin\Debug\OneDimArray.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\OneDimArray\bin\Debug\OneDimArray.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\OneDimArray\obj\Debug\OneDimArray.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\OneDimArray\obj\Debug\OneDimArray.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\OneDimArray\obj\Debug\OneDimArray.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\OneDimArray\obj\Debug\OneDimArray.pdb
