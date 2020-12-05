@@ -35,7 +35,8 @@ namespace OneDimArray
             
             OneArray arr = new OneArray(length, firstElem, step);
 
-            Console.WriteLine($"Cгенерированный массив: {arr.ToString()}");
+            Console.WriteLine($"Сохраняем сгенерированный массив: {arr.ToString()}");
+            arr.Save("text.txt");
             Console.WriteLine($"Сумма элементов массива: {arr.Sum}");
             arr.Inverse();
             Console.WriteLine($"Массива с измененными знаками: {arr.ToString()}");
@@ -45,6 +46,9 @@ namespace OneDimArray
             arr.Multi(mult);
             Console.WriteLine($"Массив элементы которого умножены на {mult}: {arr.ToString()}");
             Console.WriteLine($"Кол-во макс элеменов массива: {arr.MaxCount}");
+
+            arr.Load("text.txt");
+            Console.WriteLine($"Загружаем массив из файла: {arr.ToString()}");
             Console.ReadKey();
         }
     }
