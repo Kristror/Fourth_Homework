@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F4CC06E5-4BAC-46E9-8104-B92D3C15D35F}</ProjectGuid>
+    <ProjectGuid>{BA3EACB9-0484-4DC6-8852-2AC4E111B50B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LogPass2</RootNamespace>
-    <AssemblyName>LogPass2</AssemblyName>
+    <RootNamespace>TwoDimArray</RootNamespace>
+    <AssemblyName>TwoDimArray</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TwoArray.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

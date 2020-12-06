@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\TwoDimArray\bin\Debug\TwoDimArray.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\TwoDimArray\bin\Debug\TwoDimArray.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\TwoDimArray\bin\Debug\TwoDimArray.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\TwoDimArray\obj\Debug\TwoDimArray.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\TwoDimArray\obj\Debug\TwoDimArray.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\TwoDimArray\obj\Debug\TwoDimArray.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fourth_Homework\TwoDimArray\obj\Debug\TwoDimArray.pdb
